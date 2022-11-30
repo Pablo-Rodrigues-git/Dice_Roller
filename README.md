@@ -12,6 +12,6 @@ Este projeto consiste em exibir um dado, e ao clicar no botão "Roll" exibe uma 
 
 - [x] App Compat for Vector Drawables
 
-<img src="app/src/main/res/images/dice_roller.gif" width="400">
+<img src="app/images//dice_roller.gif" width="400">
 
   
